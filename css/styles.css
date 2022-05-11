@@ -105,21 +105,7 @@ body {
     opacity: 1;
     transition: opacity 0.3s ease-in 0.4s;
 }
-.panel0 {
-    background-image: url(/imagenes/quintana-roo/zona_arq/tulum.jpg);
-}
 
-.panel1 {
-    background-image: url(/imagenes/quintana-roo/playa/playa-del-carmen.jpg);
-}
-
-.panel2 {
-    background-image: url(/imagenes/chiapas/zona_arq/tonina.jpg);
-}
-
-.panel3 {
-    background-image: url(/imagenes/oaxaca/ciudad/oaxaca-de-juarez.jpeg);
-}
 
 @media (max-width:480px) {
     .container {
@@ -239,7 +225,5 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-
-
 
 
